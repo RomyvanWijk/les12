@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: #f2f2f2;
+}
+
+header {
+  background-color: #5c6bc0;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+footer {
+  background-color: #90caf9;
+  text-align: center;
+  padding: 15px;
+  font-size: 14px;
+  margin-top: 20px;
+}
+
+table {
+  width: 80%;
+  margin: 40px auto;
+  border-collapse: collapse;
+}
+
+td {
+  width: 25%;
+  height: 100px;
+  text-align: center;
+  vertical-align: middle;
+  font-weight: bold;
+  border: 2px solid white;
+}
+
+/* Kleuren voor elke cel met uniek ID */
+#cel1  { background-color: #f44336; color: white; }
+#cel2  { background-color: #ffe0b2; }
+#cel3  { background-color: #8e24aa; color: white; }
+#cel4  { background-color: #c5cae9; }
+#cel5  { background-color: #009688; color: white; }
+#cel6  { background-color: #fff59d; }
+#cel7  { background-color: #3f51b5; color: white; }
+#cel8  { background-color: #dcedc8; }
+#cel9  { background-color: #ff5722; color: white; }
+#cel10 { background-color: #e1bee7; }
+#cel11 { background-color: #4caf50; color: white; }
+#cel12 { background-color: #ffccbc; }
+#cel13 { background-color: #607d8b; color: white; }
+#cel14 { background-color: #ffe082; }
+#cel15 { background-color: #9c27b0; color: white; }
+#cel16 { background-color: #b2ebf2; }
